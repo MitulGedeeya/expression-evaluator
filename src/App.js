@@ -1,6 +1,8 @@
 import React, {Component} from 'react'
 import './App.css'
 
+/* eslint no-eval: 0 */
+
 class App extends Component {
     state = {
         formulaParts: [],
